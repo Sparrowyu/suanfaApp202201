@@ -4,7 +4,7 @@ public class Test1 {
     public static void main(String[] args) {
         System.out.println("This is a test!");
     }
-    public static void main1(String[] args) {
-        System.out.println("测试commit");
-    }
+
+
+    //运行Java文件：idea里面的gradle.xml文件的 <GradleProjectSettings> 下面写 <option name="delegatedBuild" value="false" />
 }
